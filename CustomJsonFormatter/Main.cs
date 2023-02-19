@@ -13,7 +13,7 @@ namespace Kbg.NppPluginNET
 {
     class Main
     {
-        internal const string PluginName = "Custom Json Formatter";
+        internal const string PluginName = "Custom JSON Formatter";
         static string iniFilePath = null;
         static bool someSetting = false;
         static frmMyDlg frmMyDlg = null;
